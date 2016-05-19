@@ -21,12 +21,12 @@ desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.715552 ms
+UnloadTime: 7.190821 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 321c -> priority: 1 
+  Thread -> id: 29b0 -> priority: 1 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.343711 ms
+UnloadTime: 2.475077 ms
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 329.
-Total: 0.257812 ms (FindLiveObjects: 0.038589 ms CreateObjectMapping: 0.012315 ms MarkObjects: 0.191306 ms  DeleteObjects: 0.008621 ms)
+Total: 0.213064 ms (FindLiveObjects: 0.022579 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.170369 ms  DeleteObjects: 0.007800 ms)
 
