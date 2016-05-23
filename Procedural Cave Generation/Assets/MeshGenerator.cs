@@ -1,7 +1,12 @@
-﻿using UnityEngine;
+﻿// ReSharper disable UnassignedField.Global
+// ReSharper disable MemberCanBePrivate.Global
+// ReSharper disable UnusedMember.Global
+
+using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
+// ReSharper disable once CheckNamespace
 public class MeshGenerator : MonoBehaviour
 {
     public struct Triangle
